@@ -1,4 +1,4 @@
-# Type casting
+# Type casting 
 # Closure
 # Var and const
 # Loops (for, foreach, for of, for in) 
