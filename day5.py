@@ -75,7 +75,7 @@ print("Array C - Odd numbers:", odd_C)
 print("Array D - Even numbers:", even_D)
 print("Array D - Odd numbers:", odd_D)
 
-
+#nice
 
 
 
