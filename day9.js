@@ -68,7 +68,7 @@ Regenerate
 
 
 // // Learn about Advance js Topics
-Advanced JavaScript topics build upon the fundamentals of the language and delve deeper into more complex and specialized areas. These topics are crucial for becoming a proficient JavaScript developer. Here are some advanced JavaScript topics to explore:
+/*Advanced JavaScript topics build upon the fundamentals of the language and delve deeper into more complex and specialized areas. These topics are crucial for becoming a proficient JavaScript developer. Here are some advanced JavaScript topics to explore:
 
 Closures: Closures occur when a function "closes over" its lexical scope, retaining access to variables even after the outer function has finished executing. Understanding closures is essential for working with asynchronous code, callbacks, and creating private variables.
 
@@ -100,7 +100,7 @@ ESLint and Prettier: These tools help enforce code style and maintain code quali
 
 Browser DevTools: Becoming proficient in using browser developer tools can greatly aid in debugging and optimizing JavaScript code. You'll learn about the Console, Debugger, Network tab, and more.
 
-These advanced JavaScript topics will deepen your understanding of the language and enable you to build more sophisticated and maintainable applications. Keep in mind that becoming proficient in these topics takes time and practice, so consider working on projects that incorporate these concepts to solidify your skills.
+These advanced JavaScript topics will deepen your understanding of the language and enable you to build more sophisticated and maintainable applications. Keep in mind that becoming proficient in these topics takes time and practice, so consider working on projects that incorporate these concepts to solidify your skills*/
 
 
 
