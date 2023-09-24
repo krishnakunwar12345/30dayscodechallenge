@@ -34,7 +34,7 @@
 
 
 // // Learn about Working of js
-The working of JavaScript (JS) is fundamental to understanding how it operates within web browsers and other JavaScript runtime environments. JavaScript is a high-level, dynamically typed, and interpreted scripting language primarily used for adding interactivity and behavior to web pages. Here's an overview of how JavaScript works:
+/*The working of JavaScript (JS) is fundamental to understanding how it operates within web browsers and other JavaScript runtime environments. JavaScript is a high-level, dynamically typed, and interpreted scripting language primarily used for adding interactivity and behavior to web pages. Here's an overview of how JavaScript works:
 
 Parsing: When a web page is loaded, the browser's HTML parser encounters a <script> tag containing JavaScript code. The JavaScript code is then parsed by the browser's JavaScript engine. This process involves tokenizing the code into smaller units (tokens) and constructing a syntax tree, which represents the structure of the code.
 
